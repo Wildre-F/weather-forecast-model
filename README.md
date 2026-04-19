@@ -1,1 +1,1 @@
-# weather-forecast-model
+machine learning-based weather forecasting model that predicts temperature, precipitation, and other key weather variables for specific locations and timeframes. Built to deliver accurate, data-driven forecasts using historical and real-time meteorological data.
